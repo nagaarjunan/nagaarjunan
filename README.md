@@ -1,5 +1,5 @@
 
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw0FYS6NqGc8-JeRv8AVIzZx&ust=1711414181141000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDyg-eYjoUDFQAAAAAdAAAAABAJ))
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1358/0*pfSePj1QRklvARDJ)
 <h1 align="center">Hi 👋, I'm NAGAARJUNAN T</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
