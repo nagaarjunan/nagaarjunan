@@ -1,5 +1,4 @@
-
-[![MasterHead](https://blog.hubspot.com/hs-fs/hubfs/7a8f8d634013568124e130728834d47a.gif?width=1500&name=7a8f8d634013568124e130728834d47a.gif)]
+![MasterHead]
 <h1 align="center">Hi 👋, I'm NAGAARJUNAN T</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
